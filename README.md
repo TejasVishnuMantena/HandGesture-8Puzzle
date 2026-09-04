@@ -1,12 +1,14 @@
+<div align="center">
+ 
 # 🧩✨ HandGesture-8Puzzle
 
-> **Solve the classic 8-Puzzle using nothing but your hand gestures!** 🖐️📷
+ **Solve the classic 8-Puzzle using nothing but your hand gestures!** 🖐️📷
 
 👉 **[Visit Hand-Gesture-8-Puzzle](https://hand-gesture-8-puzzle.vercel.app/)**
 
 An AI-powered interactive web application that transforms the traditional **8-Puzzle** into a touchless gaming experience. Using **Computer Vision** and **Hand Gesture Recognition**, the application tracks your hand through your webcam and lets you control the puzzle naturally—no mouse, keyboard, or touchscreen required.
+</div>
 
----
 
 # 📈 Project Highlights
 
